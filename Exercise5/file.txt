@@ -1,0 +1,4 @@
+Student name: Candelario, Kian Ilao
+Student number: 21-00355
+Course: Bachelor of Science in Computer Science
+Honors: Cum Laude
